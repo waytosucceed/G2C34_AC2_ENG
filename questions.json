@@ -1,0 +1,241 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did the Queen do every morning?",
+    "options": [
+      "She went for a walk.",
+      "She reviewed her plans to help the people.",
+      "She talked to a fairy.",
+      "She watered the garden."
+    ],
+    "correct": 1,
+    "explanation": "The passage says that every morning, the Queen would review her plans to help the people in her kingdom. This shows she was a wise and caring ruler."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Why did the Queen want to replant the flowers?",
+    "options": [
+      "The flowers were wilting.",
+      "The fairy told her to.",
+      "She wanted new flowers.",
+      "It was a holiday."
+    ],
+    "correct": 0,
+    "explanation": "The Queen noticed that her royal garden was wilting, so she wanted to replant the flowers to make the garden beautiful again."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "How did the people feel at the end of the story?",
+    "options": [
+      "Angry and upset.",
+      "Scared and worried.",
+      "Tired and sleepy.",
+      "Fearless and happy."
+    ],
+    "correct": 3,
+    "explanation": "The people trusted the Queen to protect them, so they felt fearless and lived happily after the Queen's hard work fixed everything."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Moton",
+      "Motion",
+      "Motien",
+      "Mosion"
+    ],
+    "correct": 1,
+    "explanation": "The correct spelling is “M-O-T-I-O-N.” It is the act of moving or the way something moves."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which of the following words is a noun?",
+    "options": [
+      "Beautiful",
+      "The",
+      "Fast",
+      "John"
+    ],
+    "correct": 3,
+    "explanation": "\"John\" is a noun because it is the name of a person. Nouns are words that name people, places, things, or ideas. The other options are not nouns: \"Beautiful\" is an adjective. \"The\" is an article. \"Fast\" is an adjective or adverb."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which word means \"to do again\"?",
+    "options": [
+      "Prewrite",
+      "Misspell",
+      "Redo",
+      "Helpful"
+    ],
+    "correct": 2,
+    "explanation": "\"Redo\" means to do something again. The prefix \"re-\" means \"again,\" so when we add it to \"do,\" we get \"redo,\" which means to do something one more time."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What does \"prewrite\" mean?",
+    "options": [
+      "Write badly",
+      "Write again",
+      "Write before",
+      "Write after"
+    ],
+    "correct": 2,
+    "explanation": "\"Prewrite\" means to write or plan before the main writing. The prefix \"pre-\" means \"before,\" so \"prewrite\" is what we do before we start the actual writing."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Choose the word that means \"to understand wrongly\":",
+    "options": [
+      "Reunderstand",
+      "Misunderstand",
+      "Preunderstand",
+      "Understandful"
+    ],
+    "correct": 1,
+    "explanation": "\"Misunderstand\" means to understand something incorrectly. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"understand,\" it means to understand in the wrong way."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which word means \"full of colour\"?",
+    "options": [
+      "Colourless",
+      "Recolour",
+      "Miscolour",
+      "Colourful"
+    ],
+    "correct": 3,
+    "explanation": "\"Colourful\" means full of colour or having lots of colours. The suffix \"-ful\" means \"full of,\" so when we add it to \"colour,\" we get \"colourful,\" which describes something with many colours."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What does \"fearless\" mean?",
+    "options": [
+      "Full of fear",
+      "Without fear",
+      "Before fear",
+      "Wrong fear"
+    ],
+    "correct": 1,
+    "explanation": "\"Fearless\" means not having any fear or being very brave. The suffix \"-less\" means \"without,\" so when we add it to \"fear,\" we get \"fearless,\" which describes someone who isn't afraid."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What does \"prehistoric\" mean?",
+    "options": [
+      "After history",
+      "During history",
+      "Wrong history",
+      "Before history"
+    ],
+    "correct": 3,
+    "explanation": "\"Prehistoric\" means before recorded history. The prefix \"pre-\" means \"before,\" so when we add it to \"historic,\" we get \"prehistoric,\" which refers to the time before people started writing down history."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Choose the word that means \"to spell incorrectly\":",
+    "options": [
+      "Respell",
+      "Prespell",
+      "Misspell",
+      "Spellful"
+    ],
+    "correct": 2,
+    "explanation": "\"Misspell\" means to spell a word incorrectly. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"spell,\" it means to spell in the wrong way."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which word means \"full of care\"?",
+    "options": [
+      "Careless",
+      "Recare",
+      "Miscare",
+      "Careful"
+    ],
+    "correct": 3,
+    "explanation": "\"Careful\" means full of care or being very cautious. The suffix \"-ful\" means \"full of,\" so when we add it to \"care,\" we get \"careful,\" which describes someone who pays a lot of attention to what they're doing."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What does \"endless\" mean?",
+    "options": [
+      "Full of ends",
+      "Without an end",
+      "Before the end"
+    ],
+    "correct": 1,
+    "explanation": "\"Endless\" means without an end or going on forever. The suffix \"-less\" means \"without,\" so when we add it to \"end,\" we get \"endless,\" which describes something that doesn't stop or finish."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word means \"to build again\"?",
+    "options": [
+      "Prebuild",
+      "Misbuild",
+      "Rebuild",
+      "Buildful"
+    ],
+    "correct": 2,
+    "explanation": "\"Rebuild\" means to build something again. The prefix \"re-\" means \"again,\" so when we add it to \"build,\" we get \"rebuild,\" which means to construct something one more time, often after it has been damaged or destroyed."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What does \"preview\" mean?",
+    "options": [
+      "View again",
+      "View wrongly",
+      "View before",
+      "Full of views"
+    ],
+    "correct": 2,
+    "explanation": "\"Preview\" means to view or see something before it's officially shown to everyone. The prefix \"pre-\" means \"before,\" so \"preview\" is when we get to see something earlier than others."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the word that means \"to behave badly\":",
+    "options": [
+      "Rebehave",
+      "Misbehave",
+      "Prebehave",
+      "Behaveful"
+    ],
+    "correct": 1,
+    "explanation": "\"Misbehave\" means to behave badly or not follow the rules. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"behave,\" it means to act in a way that's not good or correct."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word means \"full of use\"?",
+    "options": [
+      "Reuse",
+      "Misuse",
+      "Useless",
+      "Useful"
+    ],
+    "correct": 3,
+    "explanation": "\"Useful\" means full of use or very helpful. The suffix \"-ful\" means \"full of,\" so when we add it to \"use,\" we get \"useful,\" which describes something that has a lot of good uses or is very helpful."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What does \"hopeless\" mean?",
+    "options": [
+      "Full of hope",
+      "Without hope",
+      "Before hope",
+      "None of the above"
+    ],
+    "correct": 1,
+    "explanation": "\"Hopeless\" means without hope or feeling like there's no chance things will get better. The suffix \"-less\" means \"without,\" so when we add it to \"hope,\" we get \"hopeless,\" which describes a situation where someone doesn't see any possibility for improvement."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What does \"misplace\" mean?",
+    "options": [
+      "Place again",
+      "Place before",
+      "Place wrongly",
+      "Full of places"
+    ],
+    "correct": 2,
+    "explanation": "\"Misplace\" means to put something in the wrong place. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"place,\" it means to put something where it doesn't belong or where you can't find it easily."
+  }
+]
